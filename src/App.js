@@ -14,7 +14,7 @@ import Footer from './component/Footer';
 function App() {
   return (
     <>
-    <div className='bg-white text-black darkMode:bg-blue-950 darkMode:text-white'>
+    
     <Header />
     <BrowserRouter>
     <Routes>
@@ -26,7 +26,7 @@ function App() {
     <Route path='/footer' element={<Footer />} />
     </Routes>
      </BrowserRouter>
-     </div>
+     
     </>
   );
 }
