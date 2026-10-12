@@ -1,10 +1,10 @@
 
 
 import React from 'react'
-import logo from '../page/logo.jpeg'
-import x from '../page/x.png';
-import linkedin from '../page/linkedin.png';
-import message from '../page/message.png';
+//import logo from '../page/logo.jpeg'
+//import x from '../page/x.png';
+//import linkedin from '../page/linkedin.png';
+//import message from '../page/message.png';
 
 
 function Footer () {
@@ -57,10 +57,10 @@ function Footer () {
 				</span>
             </ul>
         </div> */}
-        // <hr class="my-6 border-default sm:mx-auto lg:my-8 " />
+        {/* // <hr class="my-6 border-default sm:mx-auto lg:my-8 " />
         // <span class=" text-sm text-body sm:text-center text-white">© 2026 Okoro Ifeanyi Francis . Ifycherry Ventures. All Rights Reserved.
 		//  <p className='md:text-right text-center  sm:-mt-10 md:-mt-7 lg:-mt-7'>Build with Tailwind . Design for Clarity.</p>
-		// </span>
+		// </span> */}
 
      {/* </div> */}
 {/* </footer>   */}

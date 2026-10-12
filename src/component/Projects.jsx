@@ -1,9 +1,9 @@
 
 
-import Army from '../page/Army.png';
-import caljez from '../page/caljez.png';
-import nafc from '../page/nafc.png'
-import boomyaga from '../page/boomyaga.png'
+// import Army from '../page/Army.png';
+// import caljez from '../page/caljez.png';
+// import nafc from '../page/nafc.png'
+// import boomyaga from '../page/boomyaga.png'
 import Home from '../component/Home'
 
  export default function Projects() {

@@ -1,8 +1,8 @@
 
 
-import message from '../page/message.png';
-import x from '../page/x.png';
-import linkedin from '../page/linkedin.png';
+//import message from '../page/message.png';
+//import x from '../page/x.png';
+//import linkedin from '../page/linkedin.png';
 import Home from '../component/Home'
 
 function Contact() {

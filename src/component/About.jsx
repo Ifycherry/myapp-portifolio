@@ -1,5 +1,5 @@
 // import { useState  } from "react";
-import Header from "../component/Header";
+//import Header from "../component/Header";
  import Home from '../component/Home'
 
 function About() {
