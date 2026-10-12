@@ -189,9 +189,9 @@ export default function Home() {
                       <div className='flex mt-6 justify-center ' >
                     <button className=' rounded-lg border border-orange-500 w-[20%] h-[50px]  bg-orange-500 xl:mr-60'>Send Message</button>
                     <div className='flex ml-40 gap-6 '>
-                      <a>
+                      <div>
                     <img src={message} className='w-6 h-6 dark:invert contrast-125 brightness-105 drop-shadow-lg' alt="" />
-                    </a>
+                    </div>
                     <a href="https://x.com/x/@IfeanyiIfeanyi">
                     <img src={x} className='w-6 h-6 dark:invert' alt="" />
                     </a>
