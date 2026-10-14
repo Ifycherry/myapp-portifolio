@@ -42,7 +42,7 @@ export default function Home() {
       I am a Full Stack Web Developer with experience building responsive <br/>and user-friendly web applications. I enjoy creating modern frontend <br/>interfaces, developing reliable backend systems,   integrating APIs, and<br/> solving real-world problem through technology.
     </p> 
     
-     <div className="flex gap-5 mb-6 ml-12">
+     <div className="flex gap-5 mb-6 ml-8 md:ml-14">
       <a href="https://wa.link/ewryq6"><nav className="bg-orange-800 rounded-lg border border-orange-600 px-6 py-3 font-semibold transition hover:bg-lime-300">Get In Touch</nav></a>
       <a href="http://localhost:3000/"><nav className="bg-orange-800 rounded-lg border border-orange-600 px-6 py-3 font-semibold transition hover:bg-lime-300">See Projects</nav></a>
      </div>
@@ -187,7 +187,7 @@ export default function Home() {
                     <textarea name="" id="" placeholder='Tell me about your project or question' className='rounded-lg border border-gray-300 p-3  w-[320px] h-72 sm:w-[450px] md:w-[550px] lg:w-[600px] xl:w-[680px]'></textarea>
                      </div>
                       <div className='flex mt-6 justify-center ' >
-                    <button className=' rounded-lg border border-orange-500 w-[20%] h-[50px]  bg-orange-500 xl:mr-60'>Send Message</button>
+                    <button className=' rounded-lg border border-orange-500 w-[120px] sm:[180px] h-[50px]  bg-orange-500 xl:mr-72'>Send Message</button>
                     <div className='flex ml-40 gap-6 '>
                       <div>
                     <img src={message} className='w-6 h-6 dark:invert contrast-125 brightness-105 drop-shadow-lg' alt="" />
